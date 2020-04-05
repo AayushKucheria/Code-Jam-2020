@@ -40,10 +40,10 @@ defined above.
  * Compare it to the previous alphabet
  * If it's equal - add beside the previous alphabet 
  * If it's less - calculate the difference and skip 'difference' closing 
- * 								brackets before adding it
+ *    brackets before adding it
  * If it's greater - calculate the difference and add 'difference' bracket
- * 									 pairs to the alphabet before adding it beside the
- * 									 previous alphabet
+ *    pairs to the alphabet before adding it beside the
+ *    previous alphabet
  * 
  * 
  */
